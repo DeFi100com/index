@@ -1,15 +1,20 @@
-# index
-DeFi100自媒体
+# DeFi100 - 研究型DeFi自媒体
 
 
 ## DeFi100相关链接 # 
 微博：[https://weibo.com/DeFi100](weibo.com/DeFi100)
+
 推特：https://twitter.com/Fi100De (因为名字被抢注)
+
 网站：www.DeFi100.com (网友赞助的域名，说是挺贵的)
+
 Github：https://github.com/DeFi100com
-公众号：没有开。
-微信群：不加人了。
+
 电报群：https://t.me/DeFi100group
+
+公众号：没开。
+微信群：不加人了。
+
 
 ## 关于DeFi100：
 
